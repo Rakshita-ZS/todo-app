@@ -1,0 +1,55 @@
+.app{
+    font: 20px Arial, sans-serif;
+    text-align: center;
+    
+}
+#heading {
+    text-align: center;
+}
+#popup{
+    text-align: center;
+}
+
+#task-info{
+    text-align: center;
+}
+
+#task-info > input {
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+#btn{
+    margin-top: 10px;
+}
+
+#submit {
+    border-radius: 15px;
+    background-color: #ff0000;
+    color:#FFF;
+    border: none;
+    padding: 5px 15px ;
+    margin: 10px;
+}
+#cancel {
+    border-radius: 15px;
+    background-color: #0F9D58;
+    color:#FFF;
+    border: none;
+    padding: 5px 15px ;
+    margin: 10px;
+}
+
+#add-btn{
+    border-radius: 15px;
+    background-color: #0F9D58;
+    color:#FFF;
+    border: none;
+    padding: 5px 15px ;
+    margin: 10px;
+}
+
+#popup{
+    display: none;
+}
